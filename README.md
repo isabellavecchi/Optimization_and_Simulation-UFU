@@ -1,2 +1,2 @@
-# Otimiza-o-Simula-o-UFU
-classes of optimization and simulation at Federal University of Uberlandia
+# Otimização & Simulação - UFU
+classes of optimization and simulation - Federal University of Uberlandia
